@@ -42,7 +42,7 @@ npm run dev
 
 ## 🌐 Link publicado
 Você também pode acessar pelo link:
-👉 
+👉 https://to-do-list-simple-livid.vercel.app/
 
 
 
